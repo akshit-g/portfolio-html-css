@@ -1,3 +1,3 @@
 # portfolio-html-css
 
-Personal Portfolio site hosted on github pages
+Personal Portfolio made with HTML ans CSS only 
